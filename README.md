@@ -1,2 +1,5 @@
 # blog--HSBC
-中软没有外网，用这个记录一下。
+
+## everything will be writeen in HSBC days ~
+
+> smile ~
