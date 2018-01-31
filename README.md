@@ -1,5 +1,4 @@
-# miscellaneous
 
-### anything else
+# anything else
 
-> :)
+:)
